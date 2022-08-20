@@ -1,0 +1,4 @@
+repository "SY@ssl://sultany_game@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
